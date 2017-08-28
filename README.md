@@ -5,3 +5,5 @@ Decision trees are excellent for classification tasks, and can even be modified 
 In this notebook, we will go through the steps required to implement a decision tree for classification, determining if a banknote is a counterfeit.
 
 This will set the basic framework for us to build on when implementing Random Forests, in the next notebook.
+
+View the completed notebook [here]("https://github.com/marc-chan/trees_decision-trees/blob/master/Decision_Trees.ipynb").
