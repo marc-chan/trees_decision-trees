@@ -6,4 +6,4 @@ In this notebook, we will go through the steps required to implement a decision 
 
 This will set the basic framework for us to build on when implementing Random Forests, in the next notebook.
 
-View the completed notebook [here]("https://github.com/marc-chan/trees_decision-trees/blob/master/Decision_Trees.ipynb").
+View the completed notebook [here](https://github.com/marc-chan/trees_decision-trees/blob/master/Decision_Trees.ipynb).
